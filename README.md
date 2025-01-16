@@ -9,7 +9,7 @@ Academic Homepage: https://quanyu.netlify.app/
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
 ```
-@article{YU2023109343,
+@article{YB25,
 title = {Data-Driven Tensor Dictionary Learning for Image Alignment},
 journal = {Journal of Scientific Computing},
 volume = {},
